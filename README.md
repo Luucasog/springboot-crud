@@ -1,5 +1,3 @@
-Tutorial : How to build a Spring Boot Web Application from Scratch
-
 This tutorial is built using Oracle JDK 8, Spring Boot, Spring Data, Thymeleaf.
 How to use it ?
 
